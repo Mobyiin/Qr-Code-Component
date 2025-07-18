@@ -2,6 +2,16 @@
 
 This is a simple **QR Code Component** challenge built with HTML and CSS.
 
+## 📑 Table of Contents
+
+
+- [Preview](#-preview)
+- [My Process](#-my-process)
+- [Built With](#-built-with)
+- [What I Learned](#-what-i-learned)
+- [Author](#-author)
+
+
 ## 📷 Preview
 <table>
   <tr>
@@ -18,7 +28,7 @@ This is a simple **QR Code Component** challenge built with HTML and CSS.
 
 👉 [Live Site Url](https://Mobyiin.github.io/Qr-Code-Component)
 
-## 🛠️ Built with
+## 🛠️ Built With
 
 - HTML5
 - CSS3 (Flexbox)
@@ -31,9 +41,13 @@ While building this, I learned how to:
 - Center items using Flexbox
 
 ## 🧑‍💻 Author
-
-[GitHub](https://github.com/Mobyiin)
-
-## 📚 Source
-
-This challenge is from [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)  
+<ul dir="auto">
+  <li>
+    GitHub -
+    <a href=https://github.com/Mobyiin>@Mobyiin</a>
+  </li>
+  <li>
+    Telegram -
+    <a href=https://t.me/MobyiinDev>@MobyiinDev</a>
+  </li>
+</ul>
