@@ -4,11 +4,16 @@ This is a simple **QR Code Component** challenge built with HTML and CSS.
 
 ## 📷 Preview
 
-### 🖥️ Desktop View  
-<img src="./assets/desktop-preview.png" alt="Desktop Preview" width="100%" />
-
-### 📱 Mobile View  
-<img src="./assets/mobile-preview.png" alt="Mobile Preview" width="300px" />
+<div align="center">
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <strong>🖥️ Desktop View</strong><br>
+    <img src="./assets/desktop-preview.png" alt="Desktop Preview" width="48%" />
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <strong>📱 Mobile View</strong><br>
+    <img src="./assets/mobile-preview.png" alt="Mobile Preview" width="30%" />
+  </div>
+</div>
 
 ## 🚀 Live URL
 
@@ -28,7 +33,7 @@ While building this, I learned how to:
 
 ## 🧑‍💻 Author
 
-https://github.com/Mobyiin
+[GitHub](https://github.com/Mobyiin)
 
 ## 📚 Source
 
