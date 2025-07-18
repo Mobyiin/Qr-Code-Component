@@ -6,7 +6,6 @@ This is a simple **QR Code Component** challenge built with HTML and CSS.
 
 
 - [Preview](#-preview)
-- [My Process](#-my-process)
 - [Built With](#-built-with)
 - [What I Learned](#-what-i-learned)
 - [Author](#-author)
