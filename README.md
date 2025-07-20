@@ -4,11 +4,10 @@ This is a simple **QR Code Component** challenge built with HTML and CSS.
 
 ## 📑 Table of Contents
 
-
 - [Preview](#-preview)
 - [Built With](#-built-with)
 - [What I Learned](#-what-i-learned)
-- [Author](#-author)
+- [Connect With Me](#-connect-with-me)
 
 
 ## 📷 Preview
@@ -39,7 +38,7 @@ While building this, I learned how to:
 - Structure a component with clean HTML
 - Center items using Flexbox
 
-## 🧑‍💻 Author
+##📬 Connect With Me
 <ul dir="auto">
   <li>
     GitHub -
